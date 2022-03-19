@@ -1,7 +1,7 @@
 # Breast tumor detection using CNN model
 
  Early detection of breast canser helps in reducing the number of early deaths.
-I designed a CNN deep-learning model that classifies the ultrasound images into one of the three classes: normal, benign, and malignant. The model has scored an over all accuracy of 60.5%  on a test set of 330 ultrasound images.
+I designed a CNN deep-learning model that classifies the ultrasound images into one of the three classes: normal, benign, and malignant. The model has scored an over all accuracy of 60.5%  on a test set of 100 ultrasound images.
 
 ## Tecnologies 
 
